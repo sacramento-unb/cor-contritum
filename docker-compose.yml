@@ -1,0 +1,7 @@
+services:
+  cor-contritum:
+    build: .
+    container_name: cor-contritum
+    ports:
+      - "8081:80"
+    restart: unless-stopped

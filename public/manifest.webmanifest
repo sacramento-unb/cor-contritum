@@ -1,0 +1,10 @@
+{
+  "name": "Cor Contritum — Exame de Consciência",
+  "short_name": "Cor Contritum",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#6d2335",
+  "lang": "pt-BR",
+  "icons": []
+}
