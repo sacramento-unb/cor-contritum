@@ -51,3 +51,13 @@ O roteiro é renderizado localmente e a impressão/exportação é uma ação ma
 ## Fontes doutrinárias
 
 As referências exibidas na aplicação apontam para o Catecismo da Igreja Católica e o Código de Direito Canônico no Vatican.va. A interface também distingue orientação pastoral e funcionalidade pedagógica da doutrina oficial, e não faz classificação automática de pecado mortal, estado de graça ou validade da confissão.
+
+## Estado e limites de verificação
+
+O projeto é experimental. O build, a verificação TypeScript e o teste do catálogo
+podem ser executados sem backend, mas o teste atual não cobre IndexedDB,
+criptografia, service worker, instalação PWA, impressão ou acessibilidade em
+navegadores reais.
+
+Não há arquivo de licença no nível do repositório. Confirme os termos antes de
+reutilizar ou redistribuir o código ou o conteúdo editorial.
